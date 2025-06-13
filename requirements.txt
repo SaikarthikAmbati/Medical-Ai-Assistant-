@@ -6,3 +6,6 @@ torch>=2.2.0
 sentence-transformers>=2.5.0
 transformers>=4.38.0
 nest-asyncio>=1.6.0
+plotly>=5.0.0
+requests>=2.0.0
+SpeechRecognition>=3.8.1
